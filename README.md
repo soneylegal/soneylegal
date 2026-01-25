@@ -139,11 +139,6 @@ const davi = {
 
 <br/><br/>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=soneylegal&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
-
-<br/><br/>
-
 <!-- Gráfico de atividade -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=soneylegal&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
