@@ -28,7 +28,7 @@
 
 <!-- Redes sociais animadas -->
 <p>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/davi-laurindo/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/SEU_LINKEDIN"/>
   </a>
   &nbsp;
@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:seu.email@gmail.com">
+  <a href="mailto:soneypipe.mito@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -56,7 +56,7 @@
 const davi = {
     pronouns: "ele" | "dele",
     code: ["C++", "C", "JavaScript", "TypeScript", "Python"],
-    askMeAbout: ["web dev", "tech", "backend", "frontend", "sistemas"],
+    askMeAbout: ["web dev", "tech", "backend", "frontend", "game dev"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js", "Vue"],
@@ -67,6 +67,7 @@ const davi = {
             js: ["Node", "Express"],
             python: ["Django"]
         },
+        gameDev: ["Unreal Engine", "Godot"],
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
         devOps: ["Docker", "GitHub Actions", "Linux", "CMake"],
         tools: ["Git", "VS Code"]
@@ -112,6 +113,11 @@ const davi = {
 ### ⚙️ Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,mysql" />
+</p>
+
+### 🎮 Game Dev
+<p>
+  <img src="https://skillicons.dev/icons?i=unreal,godot" />
 </p>
 
 ### 🛠️ Ferramentas & DevOps
