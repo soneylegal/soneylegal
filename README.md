@@ -55,20 +55,21 @@
 ```javascript
 const davi = {
     pronouns: "ele" | "dele",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "backend", "frontend"],
+    code: ["C++", "C", "JavaScript", "TypeScript", "Python"],
+    askMeAbout: ["web dev", "tech", "backend", "frontend", "sistemas"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
+            cpp: ["Qt6"],
+            css: ["Tailwind", "Bootstrap"]
         },
         backEnd: {
             js: ["Node", "Express"],
-            python: ["Django", "FastAPI"]
+            python: ["Django"]
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        devOps: ["Docker", "GitHub Actions", "Linux"],
-        tools: ["Git", "VS Code", "Postman"]
+        devOps: ["Docker", "GitHub Actions", "Linux", "CMake"],
+        tools: ["Git", "VS Code"]
     },
     currentFocus: "Construindo soluções escaláveis e performáticas",
     funFact: "Há 10 tipos de pessoas: as que entendem binário e as que não."
