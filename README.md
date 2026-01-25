@@ -17,9 +17,9 @@
 
 <!-- Badges de status -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Visitantes&color=6C63FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=soneylegal&label=Visitantes&color=6C63FF&style=flat-square" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/SEU_USERNAME?label=Seguidores&style=flat-square&color=6C63FF" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/soneylegal?label=Seguidores&style=flat-square&color=6C63FF" alt="Followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Foco-Full%20Stack-6C63FF?style=flat-square" alt="Focus"/>
   &nbsp;
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/SEU_LINKEDIN"/>
   </a>
   &nbsp;
-  <a href="https://github.com/SEU_USERNAME">
+  <a href="https://github.com/soneylegal">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
@@ -77,7 +77,7 @@ const davi = {
 
 <br/>
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soneylegal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 ### 🎯 Foco Atual
 
@@ -132,20 +132,20 @@ const davi = {
 <div align="center">
 
 <!-- Stats principais -->
-<a href="https://github.com/SEU_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
+<a href="https://github.com/soneylegal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soneylegal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soneylegal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
 </a>
 
 <br/><br/>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soneylegal&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
 
 <br/><br/>
 
 <!-- Gráfico de atividade -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soneylegal&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -154,7 +154,7 @@ const davi = {
 ## 🏆 Troféus do GitHub
 
 
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=soneylegal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5"/>
 </div>
 
 <br/>
@@ -168,9 +168,9 @@ const davi = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soneylegal/soneylegal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soneylegal/soneylegal/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soneylegal/soneylegal/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -201,7 +201,7 @@ const davi = {
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   &nbsp;
-  <a href="https://github.com/SEU_USERNAME" target="_blank">
+  <a href="https://github.com/soneylegal" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   
