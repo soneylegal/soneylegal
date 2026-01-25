@@ -100,12 +100,12 @@ const davi = {
 
 ### 💻 Linguagens
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,html,css" />
 </p>
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=react,next,vue,qt,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend & Database
@@ -115,7 +115,7 @@ const davi = {
 
 ### 🛠️ Ferramentas & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,cmake" />
 </p>
 
 </div>
