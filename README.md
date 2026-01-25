@@ -3,9 +3,6 @@
 <!-- Header animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
 
-<!-- GIF de apresentação ou imagem -->
-<img src="https://raw.githubusercontent.com/MicaelliMed);=deiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration" min-width="400px" max-width="400px" width="400px" align="right">
-
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   Olá! Eu sou <strong>Davi</strong>
