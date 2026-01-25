@@ -146,37 +146,12 @@ const davi = {
 
 <br/>
 
-## 🏆 Troféus do GitHub
-
-
-  <img src="https://github-profile-trophy.vercel.app/?username=soneylegal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5"/>
-</div>
-
-<br/>
-
 <!-- Divisor animado -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
-## 🐍 Minhas Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soneylegal/soneylegal/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soneylegal/soneylegal/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soneylegal/soneylegal/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
-<!-- Divisor animado -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 💭 Citação do Dia
+##  Citação do Dia
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
