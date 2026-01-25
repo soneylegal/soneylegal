@@ -1,86 +1,220 @@
 <div align="center">
 
-# Olá! 👋 Eu sou Davi
+<!-- Header animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
 
-<br/>
+<!-- GIF de apresentação ou imagem -->
+<img src="https://raw.githubusercontent.com/MicaelliMed);=deiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Desenvolvedor Full Stack apaixonado por tecnologia 💜
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Olá! Eu sou <strong>Davi</strong>
+</h1>
 
-<br/>
+<!-- Typing SVG animado -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=440&lines=Desenvolvedor+Full+Stack+%F0%9F%92%9C;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo!;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
+</a>
 
+<br/><br/>
+
+<!-- Badges de status -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Profile%20views&color=6C63FF" alt="Profile Views" height="25px"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/SEU_USERNAME?color=6C63FF&label=Followers" alt="Follower Count" height="25px" /> 
+  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Visitantes&color=6C63FF&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/SEU_USERNAME?label=Seguidores&style=flat-square&color=6C63FF" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Foco-Full%20Stack-6C63FF?style=flat-square" alt="Focus"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20trabalho-brightgreen?style=flat-square" alt="Status"/>
 </p>
 
-<br/>
-
+<!-- Redes sociais animadas -->
 <p>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
-  <a href="https://github.com/SEU_USERNAME"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>&nbsp;&nbsp;
-  <a href="mailto:seu.email@gmail.com"><img width="35" height="35" src="https://img.icons8.com/color/48/gmail-new.png"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/SEU_LINKEDIN"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/SEU_USERNAME">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:seu.email@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 </div>
 
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
-
-### 👨‍💻 Sobre mim
-
-- 🔭 Atualmente trabalhando em **[Seu Projeto]**
-- 🌱 Estudando **[O que está aprendendo]**
-- 💬 Pergunte-me sobre **[Suas especialidades]**
-- ⚡ Curiosidade: **[Algo interessante sobre você]**
-
-<br/>
-<br/>
-<br/>
-
----
+<!-- Divisor animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
-### 🛠️ Tecnologias & Ferramentas
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Sobre mim
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,nodejs,python,java,docker,git,github,vscode,linux,mysql,postgres,mongodb)](https://skillicons.dev)
+```javascript
+const davi = {
+    pronouns: "ele" | "dele",
+    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    askMeAbout: ["web dev", "tech", "backend", "frontend"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Vue"],
+            css: ["Tailwind", "Bootstrap", "Sass"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django", "FastAPI"]
+        },
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        devOps: ["Docker", "GitHub Actions", "Linux"],
+        tools: ["Git", "VS Code", "Postman"]
+    },
+    currentFocus: "Construindo soluções escaláveis e performáticas",
+    funFact: "Há 10 tipos de pessoas: as que entendem binário e as que não."
+};
+```
 
 <br/>
 
----
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+### 🎯 Foco Atual
+
+- 🔭 Trabalhando em **projetos pessoais incríveis**
+- 🌱 Aprendendo **Cloud & DevOps**
+- 👯 Buscando colaborar em **projetos open source**
+- 💬 Pergunte-me sobre **React, Node.js, Python**
+- ⚡ Fun fact: **Café ☕ = Código**
+
+<br/><br/><br/>
+
+<!-- Divisor animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
-### ⭐ GitHub Stats
-
-<br/>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tecnologias & Ferramentas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+### 💻 Linguagens
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,bootstrap,sass" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,mysql" />
+</p>
+
+### 🛠️ Ferramentas & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,postman" />
+</p>
+
 </div>
 
 <br/>
 
+<!-- Divisor animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
+
+<!-- Stats principais -->
+<a href="https://github.com/SEU_USERNAME">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
+</a>
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
+
+<br/><br/>
+
+<!-- Gráfico de atividade -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
 </div>
 
 <br/>
 
----
+## 🏆 Troféus do GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5"/>
+</div>
 
 <br/>
 
+<!-- Divisor animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🐍 Minhas Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<!-- Divisor animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 💭 Citação do Dia
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+<br/>
+
+## 📫 Vamos nos Conectar!
+
 <div align="center">
   
-  ### 📫 Vamos nos conectar!
+  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="mailto:seu.email@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://github.com/SEU_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
   
-  <br/>
+  <br/><br/>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Obrigado+por+visitar+meu+perfil!+%F0%9F%98%8A;Vamos+construir+algo+incr%C3%ADvel+juntos!"/>
   
 </div>
+
+<br/>
+
+<!-- Footer animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
