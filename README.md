@@ -5,25 +5,25 @@
 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Olá! Eu sou <strong>Davi</strong>
+  Hey! I'm <strong>Davi</strong>
 </h1>
 
 <!-- Typing SVG animado -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=440&lines=Desenvolvedor+Full+Stack+%F0%9F%92%9C;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo!;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=440&lines=Full+Stack+Developer+%F0%9F%92%9C;Passionate+about+Technology;Always+learning+something+new!;Turning+ideas+into+code" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- Badges de status -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=soneylegal&label=Visitantes&color=6C63FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=soneylegal&label=Visitors&color=6C63FF&style=flat-square" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/soneylegal?label=Seguidores&style=flat-square&color=6C63FF" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/soneylegal?label=Followers&style=flat-square&color=6C63FF" alt="Followers"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Foco-Full%20Stack-6C63FF?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" alt="Focus"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Disponível%20para%20trabalho-brightgreen?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20work-brightgreen?style=flat-square" alt="Status"/>
 </p>
 
 <!-- Redes sociais animadas -->
@@ -50,11 +50,11 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Sobre mim
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About me
 
 ```javascript
 const davi = {
-    pronouns: "ele" | "dele",
+    pronouns: "he" | "him",
     code: ["C++", "C", "JavaScript", "TypeScript", "Python"],
     askMeAbout: ["web dev", "tech", "backend", "frontend", "game dev"],
     technologies: {
@@ -72,8 +72,8 @@ const davi = {
         devOps: ["Docker", "GitHub Actions", "Linux", "CMake"],
         tools: ["Git", "VS Code"]
     },
-    currentFocus: "Construindo soluções escaláveis e performáticas",
-    funFact: "Há 10 tipos de pessoas: as que entendem binário e as que não."
+    currentFocus: "Building scalable and high-performance solutions",
+    funFact: "There are 10 types of people: those who understand binary and those who don't."
 };
 ```
 
@@ -81,13 +81,13 @@ const davi = {
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soneylegal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-### 🎯 Foco Atual
+### 🎯 Current Focus
 
-- 🔭 Trabalhando em **projetos pessoais incríveis**
-- 🌱 Aprendendo **Cloud & DevOps**
-- 👯 Buscando colaborar em **projetos open source**
-- 💬 Pergunte-me sobre **React, Node.js, Python**
-- ⚡ Fun fact: **Café ☕ = Código**
+- 🔭 Working on **awesome personal projects**
+- 🌱 Learning **Cloud & DevOps**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **React, Node.js, Python**
+- ⚡ Fun fact: **Coffee ☕ = Code**
 
 <br/><br/><br/>
 
@@ -96,11 +96,11 @@ const davi = {
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tecnologias & Ferramentas
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
 
 <div align="center">
 
-### 💻 Linguagens
+### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,html,css" />
 </p>
@@ -120,7 +120,7 @@ const davi = {
   <img src="https://skillicons.dev/icons?i=unreal,godot" />
 </p>
 
-### 🛠️ Ferramentas & DevOps
+### 🛠️ Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,cmake" />
 </p>
@@ -158,7 +158,7 @@ const davi = {
 
 <br/>
 
-##  Citação do Dia
+## 💭 Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -166,7 +166,7 @@ const davi = {
 
 <br/>
 
-## 📫 Vamos nos Conectar!
+## 📫 Let's Connect!
 
 <div align="center">
   
@@ -184,7 +184,7 @@ const davi = {
   
   <br/><br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Obrigado+por+visitar+meu+perfil!+%F0%9F%98%8A;Vamos+construir+algo+incr%C3%ADvel+juntos!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%8A;Let's+build+something+amazing+together!"/>
   
 </div>
 
