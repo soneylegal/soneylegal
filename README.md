@@ -170,11 +170,11 @@ const davi = {
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/davi-laurindo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp;
-  <a href="mailto:seu.email@gmail.com">
+  <a href="mailto:soneypipe.mito@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   &nbsp;
