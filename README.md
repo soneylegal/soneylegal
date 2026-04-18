@@ -87,7 +87,6 @@ const davi = {
 - 🌱 Learning **Cloud & DevOps**
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, Python**
-- ⚡ Fun fact: **Coffee ☕ = Code**
 
 <br/><br/><br/>
 
