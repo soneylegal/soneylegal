@@ -13,7 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=440&lines=Full+Stack+Developer+%F0%9F%92%9C;Passionate+about+Technology;Always+learning+something+new!;Turning+ideas+into+code" alt="Typing SVG" />
 </a>
 
-<br/><br/>
 
 <!-- Badges de status -->
 <p>
