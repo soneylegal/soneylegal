@@ -80,16 +80,6 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
-
-<div align="center">
-
-<!-- Stats principais -->
-<a href="https://github.com/soneylegal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soneylegal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soneylegal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&cache_seconds=1800&hide=c++,c"/></a>
-
-<br/><br/>
 
 <!-- Gráfico de atividade -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=soneylegal&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
