@@ -81,15 +81,6 @@ const davi = {
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soneylegal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-### 🎯 Current Focus
-
-- 🔭 Working on **awesome personal projects**
-- 🌱 Learning **Cloud & DevOps**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Node.js, Python**
-
-<br/><br/><br/>
-
 <!-- Divisor animado -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
