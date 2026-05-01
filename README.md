@@ -50,34 +50,6 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About me
-
-```javascript
-const davi = {
-    pronouns: "he" | "him",
-    code: ["C++", "C", "JavaScript", "TypeScript", "Python"],
-    askMeAbout: ["web dev", "tech", "backend", "frontend", "game dev"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            cpp: ["Qt6"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django"]
-        },
-        gameDev: ["Unreal Engine", "Godot"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        devOps: ["Docker", "GitHub Actions", "Linux", "CMake"],
-        tools: ["Git", "VS Code"]
-    },
-    currentFocus: "Building scalable and high-performance solutions",
-    funFact: "There are 10 types of people: those who understand binary and those who don't."
-};
-```
-
-<br/>
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soneylegal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
