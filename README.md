@@ -87,8 +87,7 @@
 <!-- Stats principais -->
 <a href="https://github.com/soneylegal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soneylegal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soneylegal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soneylegal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&cache_seconds=1800&hide=c++,c"/></a>
 
 <br/><br/>
 
