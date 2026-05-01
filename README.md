@@ -99,27 +99,27 @@ const davi = {
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,html,css" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,next,vue,qt,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend & Database
+### Backend & Database
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,mysql" />
 </p>
 
-### 🎮 Game Dev
+### Game Dev
 <p>
-  <img src="https://skillicons.dev/icons?i=unreal,godot" />
+  <img src="https://skillicons.dev/icons?i=unreal,godot,unity" />
 </p>
 
-### 🛠️ Tools & DevOps
+### Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,cmake" />
 </p>
@@ -164,28 +164,6 @@ const davi = {
 </div>
 
 <br/>
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/davi-laurindo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="mailto:soneypipe.mito@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://github.com/soneylegal" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  
-  <br/><br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%8A;Let's+build+something+amazing+together!"/>
-  
-</div>
 
 <br/>
 
