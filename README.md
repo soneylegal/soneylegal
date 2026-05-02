@@ -93,12 +93,6 @@
 
 <br/>
 
-## Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
-
 <br/>
 
 <br/>
