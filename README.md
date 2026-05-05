@@ -3,11 +3,6 @@
 <!-- Header animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
 
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hey! I'm <strong>Davi</strong>
-</h1>
-
 <!-- Typing SVG animado -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=440&lines=Full+Stack+Developer+%F0%9F%92%9C;Passionate+about+Technology;Always+learning+something+new!;Turning+ideas+into+code" alt="Typing SVG" />
@@ -16,9 +11,6 @@
 
 <!-- Badges de status -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=soneylegal&label=Visitors&color=6C63FF&style=flat-square" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/soneylegal?label=Followers&style=flat-square&color=6C63FF" alt="Followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" alt="Focus"/>
   &nbsp;
