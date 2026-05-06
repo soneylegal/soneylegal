@@ -53,39 +53,13 @@
 
 ### Game Dev
 <p>
-  <img src="https://skillicons.dev/icons?i=unreal,godot,unity" />
+  <img src="https://skillicons.dev/icons?i=godot,unity" />
 </p>
 
 ### Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,cmake" />
 </p>
-
-</div>
-
-<br/>
-
-<!-- Divisor animado -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-
-<!-- Gráfico de atividade -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soneylegal&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-<!-- Divisor animado -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<br/>
-
-<br/>
 
 <!-- Footer animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
