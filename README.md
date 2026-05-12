@@ -1,22 +1,4 @@
 <div align="center">
-
-<!-- Header animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
-
-<!-- Typing SVG animado -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=440&lines=Full+Stack+Developer+%F0%9F%92%9C;Passionate+about+Technology;Always+learning+something+new!;Turning+ideas+into+code" alt="Typing SVG" />
-</a>
-
-
-<!-- Badges de status -->
-<p>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" alt="Focus"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work-brightgreen?style=flat-square" alt="Status"/>
-</p>
-
 <!-- Redes sociais animadas -->
 <p>
   <a href="https://www.linkedin.com/in/davi-laurindo/">
@@ -60,6 +42,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,cmake" />
 </p>
-
-<!-- Footer animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
