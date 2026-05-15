@@ -21,7 +21,8 @@ $ cat stack.conf
 [ai & data engineering]      LLM Integration & Orchestration · RAG Architectures · PySpark · LangChain · Agentic Workflows
 [infrastructure & devops]    Docker · Kubernetes · Terraform · AWS · GitHub Actions · Linux · LocalStack
 [database & persistence]     PostgreSQL · Redis · DynamoDB · ChromaDB / Pinecone · TimescaleDB
-[testing & quality]          PyTest · TDD · LangSmith · AWS Powertools
+[observability & monitoring]  OpenTelemetry · Prometheus · Grafana · LangSmith
+[testing & quality]          PyTest · TDD · AWS Powertools
 ```
 
 ```
