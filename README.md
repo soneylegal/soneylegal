@@ -7,7 +7,7 @@ $ whoami
 ```
 
 ```
-Davi Laurindo · Software Engineer · Maceió, AL
+Davi Laurindo · Software Engineer and Researcher · Maceió, AL
 ```
 
 ```
